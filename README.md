@@ -1,6 +1,6 @@
 # Java-InterviewNotes-Advance
-Java-InterviewNotes-Advance系码上代码公众号和csdn博客同步分享，包含面试常见高并发，分布式，海量数据常见面试题和技术解决方案，以及springcloud源码解析,Elasticsearch等中间件专栏，JVM原理，mysqly，Redis原理以及亿级流量分布式系统实战内容分享
- 公众号
+Java-InterviewNotes-Advance系码上代码公众号和csdn博客同步分享，包含java入门到精通所有资源和面试常见高并发，分布式，海量数据常见面试题和技术解决方案，以及springcloud源码解析,Elasticsearch等中间件专栏，JVM原理，mysqly，Redis原理以及亿级流量分布式系统实战内容分享
+具体内容详见wiki：
  为大家整理java入门到成神之路，一些好的资源
 
 所有书籍资料 关注 码上代码 公众号 即可免费获取 image
